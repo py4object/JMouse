@@ -1,5 +1,5 @@
 #JMouse
-JMouse is tool in which you can manipulate Mouse and keyboard (using virtual keyboard on screen )by using a standard joystick or gamepad 
+JMouse is a tool in which you can manipulate Mouse and keyboard (using virtual keyboard on screen )by using a standard joystick or gamepad 
 
 I used the flowing libraries:
 
